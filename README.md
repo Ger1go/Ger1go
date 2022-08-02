@@ -16,15 +16,15 @@
 
 - 🔭 Atualmente aprendendo Django
 
-- 🌍🗣️ Minha lingua nativa é o Espanhol e sou fluente em Portuges e Ingles.
+- 🌍🗣️ Minha língua nativa é o Espanhol e sou fluente em Português e Inglês.
 
 
-- 🎬 Sou MUITO cinefilo! Sei quem é aquele atór que tu não lembra!
+- 🎬 Sou MUITO cinéfilo! Sei quem é aquele ator que tu não lembra!
     
 
-- 👨‍👩‍👧 Sissi e eu temos uma filinha. Francesca 💕
+- 👨‍👩‍👧 Sissi e eu temos uma filhinha. Francesca 💕
 
-- 🐕🚲 Meu cachorro Luke e eu amamos dar um role de bike
+- 🐕🚲 Meu cachorro Luke e eu amamos dar um rolê de bike
 
 - 💬 Ask me about:
 
