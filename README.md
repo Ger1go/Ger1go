@@ -10,7 +10,7 @@
 - 👨🏻‍💻Estou apaixonado pela programação!
 - 🔥 Sou estudante Back-End Python no BootCamp na [![devpro](https://images.memberkit.com.br/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXFyQ2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--2a7714288e84b10d70cb8aadd3c7df87635aff25/200X80%20Logo.png?width=80&height=50)](https://plataforma.dev.pro.br/)
 
-
+- 🌍🗣️ Minha lingua nativa é o Espanhol e sou fluente em Portuges e Ingles.
 
 - 🔭 Atualmente aprendendo Django
 
