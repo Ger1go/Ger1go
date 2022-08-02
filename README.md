@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GermanUngo/ef486cce2df4167bfdda6585570aaa5e/raw/2b31c1ce0c0129cb8131af00973659c73f0c703c/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/GermanUngo/e9067567cc9b6e40bfdd709ae72304cc/raw/c8f88dada61178fbc4311e9d21c18eafef1d0a50/cardperfil2.svg"/>
 
 
 
@@ -6,6 +6,8 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm German Ungo</h1>
 
 #<p align="left"> <img src="https://komarev.com/ghpvc/?username=GermanUngo&color=yellow" alt="Profile views" /> </p>
+
+
 
 - 👨🏻‍💻Estou apaixonado pela programação!
 - 🔥 Sou estudante Back-End Python no BootCamp na [![devpro](https://images.memberkit.com.br/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXFyQ2c9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--2a7714288e84b10d70cb8aadd3c7df87635aff25/200X80%20Logo.png?width=80&height=50)](https://plataforma.dev.pro.br/)
