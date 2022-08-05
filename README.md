@@ -5,7 +5,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm German Ungo</h1>
 
-#<p align="left"> <img src="https://komarev.com/ghpvc/?username=GermanUngo&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=GermanUngo&color=yellow" alt="Profile views" /> </p>
 
 
 
@@ -14,7 +14,13 @@
 
 
 
-- 🔭 Atualmente aprendendo Django
+          
+
+- 🔭 Atualmente aprendendo "OO" Programação Orientada a Objetos. 
+
+- 📖 Meu próximo desafio é aprender: 
+
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/C6VtQpt/django.png" width="70" height="40"/></a>  
 
 - 🌍🗣️ Minha língua nativa é o Espanhol e sou fluente em Português e Inglês.
 
@@ -28,7 +34,7 @@
 
 - 💬 Ask me about:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="100" height="80"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="100" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="80" /><a href="https://imgbb.com/"><img src="https://i.ibb.co/9pb3F5f/pandas.png" width="80" height="80"/></a>
 
 
 <br><br>
