@@ -16,7 +16,7 @@
 
           
 
-- 🔭 Atualmente aprendendo "OO" Programação Orientada a Objetos. 
+- 🔭 Atualmente aprendendo "POO" Programação Orientada a Objetos. 
 
 - 📖 Meu próximo desafio é aprender: 
 
