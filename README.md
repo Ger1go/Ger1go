@@ -16,9 +16,7 @@
 
           
 
-- 🔭 Atualmente aprendendo "POO" Programação Orientada a Objetos. 
-
-- 📖 Meu próximo desafio é aprender: 
+- 🔭 Atualmente aprendendo:
 
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/C6VtQpt/django.png" width="70" height="40"/></a>  
 
