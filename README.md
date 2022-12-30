@@ -16,9 +16,9 @@
 
           
 
-- 🔭 Atualmente aprendendo:
+- 🔭 Atualmente estudando DATA SCIENCE 
 
-    <a href="https://imgbb.com/"><img src="https://i.ibb.co/C6VtQpt/django.png" width="70" height="40"/></a>  
+    
 
 - 🌍🗣️ Minha língua nativa é o Espanhol e sou fluente em Português e Inglês.
 
@@ -32,7 +32,7 @@
 
 - 💬 Ask me about:
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="80" /><a href="https://imgbb.com/"><img src="https://i.ibb.co/9pb3F5f/pandas.png" width="80" height="80"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="100" height="80" /><a href="https://imgbb.com/"><img src="https://i.ibb.co/9pb3F5f/pandas.png" width="80" height="80"/></a>                           <a href="https://imgbb.com/"><img src="https://i.ibb.co/C6VtQpt/django.png" width="70" height="40"/></a>  
 
 
 <br><br>
