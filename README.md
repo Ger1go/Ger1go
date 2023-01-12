@@ -50,17 +50,17 @@
           
                    
 
-<br><br>
+#<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=GermanUngo&show_icons=true&theme=vision-friendly-dark" alt="GermanUngo stats"/>
-<img width="530em" src="[https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?)username=GermanUngo&layout=compact&theme=vision-friendly-dark" alt="GermanUngo most languages"/>
-</p>
+#<p align="left">
+#<img width="530em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-#rickstaa.vercel.app/api?)username=GermanUngo&show_icons=true&theme=vision-friendly-dark" alt="GermanUngo stats"/>
+#<img width="530em" src="[https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-git-masterrstaa-#rickstaa.vercel.app/api?)username=GermanUngo&layout=compact&theme=vision-friendly-dark" alt="GermanUngo most languages"/>
+#</p>
 
 
-<br><br>
+#<br><br>
 
 ## Contact
 
