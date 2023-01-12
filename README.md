@@ -42,25 +42,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="80" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="80" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="80" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="50"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80" height="50"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="50" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="80" height="50" /><a href="https://imgbb.com/"><img src="https://i.ibb.co/MMsWpfL/githublogo.png" width="50" height="50"/></a>
           
 
-          
-      
-          
-         
-          
-          
-                   
-
-#<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-#<p align="left">
-#<img width="530em" src="[https://github-readme-stats.vercel.app/api?](https://github-readme-stats-git-masterrstaa-#rickstaa.vercel.app/api?)username=GermanUngo&show_icons=true&theme=vision-friendly-dark" alt="GermanUngo stats"/>
-#<img width="530em" src="[https://github-readme-stats.vercel.app/api/top-langs/?](https://github-readme-stats-git-masterrstaa-#rickstaa.vercel.app/api?)username=GermanUngo&layout=compact&theme=vision-friendly-dark" alt="GermanUngo most languages"/>
-#</p>
-
-
-#<br><br>
+   
 
 ## Contact
 
