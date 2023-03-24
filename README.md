@@ -16,7 +16,7 @@
 
           
 
-- 🔭 Atualmente estudando DATA SCIENCE 
+- 🔭 Atualmente estudando Django 
 
     
 
