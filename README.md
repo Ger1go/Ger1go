@@ -16,7 +16,7 @@
 
           
 
-- 🔭 Atualmente estudando Django 
+- 🔭 Atualmente estudando API REST 
 
     
 
